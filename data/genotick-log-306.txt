@@ -1,0 +1,2 @@
+Reading file ./intelData/INTC.csv
+Got 1259 lines
