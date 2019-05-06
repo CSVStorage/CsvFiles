@@ -1,0 +1,36 @@
+Reading file ./intelData/INTC.csv
+Got 1259 lines
+Reading file ./intelData/reverse_INTC.csv
+Got 1259 lines
+Reading file ./intelData/INTC.csv
+Got 1259 lines
+Reading file ./intelData/reverse_INTC.csv
+Got 1259 lines
+startTimePoint 20140429
+endTimePoint 20190429
+populationDAO ./intelRobot
+performTraining true
+dataSettings ./intelData
+populationDesiredSize 100000
+processorInstructionLimit 256
+maximumDeathByAge 0.01
+maximumDeathByWeight 0.1
+probabilityOfDeathByAge 0.5
+probabilityOfDeathByWeight 0.5
+inheritedChildWeight 0.0
+dataMaximumOffset 256
+protectRobotsUntilOutcomes 100
+newInstructionProbability 0.01
+instructionMutationProbability 0.01
+skipInstructionProbability 0.01
+minimumOutcomesToAllowBreeding 50
+minimumOutcomesBetweenBreeding 50
+killNonPredictingRobots true
+randomRobotsAtEachUpdate 0.02
+protectBestRobots 0.02
+requireSymmetricalRobots true
+resultThreshold 1.0
+ignoreColumns 0
+tradeMode AT_NEXT_OPEN
+
+Openning account with 100000 cash
